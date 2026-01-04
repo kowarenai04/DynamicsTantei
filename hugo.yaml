@@ -1,7 +1,7 @@
 baseURL: "https://holicjack.github.io/DynamicsTantei/"
 languageCode: en
 title: 壊れない欠片
-theme: PaperMod
+theme: ananke
 taxonomies:
   category: categories
   tag: tags
