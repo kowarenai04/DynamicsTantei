@@ -31,7 +31,19 @@ jobs:
 
       - name: Build
         run: hugo --config hugo.yaml --minify
+      - name: Debug config and homepage output
+        run: |
+          echo "=== HUGO VERSION ==="
+          hugo version
 
+          echo "=== CONFIG (mainSections / recent_posts_number / pagination) ==="
+          hugo config --config hugo.yaml | sed -n '1,200p' | grep -nE "mainSections|recent_posts_number|pagerSize|baseURL|theme" || true
+
+          echo "=== CHECK GENERATED public/index.html for /posts/ links ==="
+          grep -n "/posts/" public/index.html | head -n 20 || true
+
+          echo "=== FIRST 120 LINES OF public/index.html ==="
+          sed -n '1,120p' public/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
