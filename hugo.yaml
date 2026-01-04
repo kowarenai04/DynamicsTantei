@@ -9,6 +9,8 @@ params:
   description: ""
   defaultTheme: auto
   disableThemeToggle: true
+  mainSection: ["posts"]
+  recent_posts_number: 10
   showShareButtons: true
   showReadingTime: true
   showToc: false
