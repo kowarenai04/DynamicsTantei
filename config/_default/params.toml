@@ -85,7 +85,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "giscus"
 
 [comments.disqusjs]

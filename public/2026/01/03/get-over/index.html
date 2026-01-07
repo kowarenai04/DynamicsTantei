@@ -98,6 +98,16 @@
         </ol><ol class="menu" id="main-menu">
         
         
+        
+        <li >
+            <a href='/DynamicsTantei/page/guestbook/' >
+                
+                
+                
+                <span>留言板</span>
+            </a>
+        </li>
+        
         <li class="menu-bottom-section">
             <ol class="menu">
 
@@ -401,57 +411,6 @@
      
     
         
-    <script
-    src="https://giscus.app/client.js"
-    data-repo="kowarenai04/DynamicsTantei"
-    data-repo-id="R_kgDOQzcO5Q"
-    data-category="Comments"
-    data-category-id="DIC_kwDOQzcO5c4C0rUZ"
-    data-mapping="pathname"
-    data-strict="0"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-input-position="top"
-    data-theme="light"
-    data-lang="zh-CN"
-    data-loading=""
-    crossorigin="anonymous"
-    async
-></script>
-<script>
-    function setGiscusTheme(theme) {
-        let giscus = document.querySelector("iframe.giscus-frame");
-        if (giscus) {
-            giscus.contentWindow.postMessage(
-                {
-                    giscus: {
-                        setConfig: {
-                            theme: theme,
-                        },
-                    },
-                },
-                "https://giscus.app"
-            );
-        }
-    }
-
-    (function () {
-        addEventListener("message", (e) => {
-            if (event.origin !== "https://giscus.app") return;
-            handler();
-        });
-        window.addEventListener("onColorSchemeChange", handler);
-
-        function handler() {
-            if (document.documentElement.dataset.scheme === "light") {
-                setGiscusTheme('light');
-            } else {
-                setGiscusTheme('dark_dimmed');
-            }
-        }
-    })();
-</script>
-
     
 
     <footer class="site-footer">

@@ -1,0 +1,29 @@
+{{ define "main" }}
+<article class="article-page">
+  <header class="article-header">
+    <h1 class="article-title">{{ .Title }}</h1>
+  </header>
+
+  <div class="article-content">
+    {{ .Content }}
+  </div>
+
+  <div class="article-comments">
+    <script src="https://giscus.app/client.js"
+      data-repo="kowarenai04/DynamicsTantei"
+      data-repo-id="R_kgDOQzcO5Q"
+      data-category="Comments"
+      data-category-id="DIC_kwDOQzcO5c4C0rUZ"
+      data-mapping="specific"
+      data-term="Guestbook"
+      data-reactions-enabled="0"
+      data-emit-metadata="0"
+      data-input-position="top"
+      data-theme="preferred_color_scheme"
+      data-lang="zh-CN"
+      crossorigin="anonymous"
+      async>
+    </script>
+  </div>
+</article>
+{{ end }}

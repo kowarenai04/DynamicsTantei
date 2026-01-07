@@ -14,3 +14,8 @@ url = "https://www.wxw.moe/@kowaretai"
 
 [social.params]
 icon = "brand-mastodon"
+
+[[main]]
+name = "留言板"
+pageRef = "/page/guestbook"
+weight = 40
