@@ -1,22 +1,10 @@
 ---
-_last_editor_used_jetpack: block-editor
-_publicize_job_id: "89986603046"
-author: nojilllee
-categories:
-  - 杂
-date: "2023-12-04T20:33:54+00:00"
-guid: https://dynamicstantei.wordpress.com/?p=128
-parent_post_id: null
-post_id: "128"
-tags:
-  - 回忆
-  - 心情
-timeline_notification: "1701722036"
 title: 宠物杂忆
-url: /2023/12/04/宠物杂忆/
-wordads_ufa: s:wpcom-ufa-v4:1701722278
-wpcom_is_first_post: "1"
-
+categories:
+  - 回忆
+date: "2023-12-04T20:33:54+00:00"
+tags:
+  - 心情
 ---
 本来打算发个嘟了事，结果越写居然越兴奋。恰好音箱里放起了美しきもの，实在有点应景，干脆写下几段文字吧。
 

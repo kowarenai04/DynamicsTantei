@@ -1,20 +1,10 @@
 ---
-_last_editor_used_jetpack: block-editor
-_publicize_job_id: "73915554352"
-author: nojilllee
-categories:
-  - 歌词
-date: "2022-06-22T07:20:55+00:00"
-guid: https://dynamicstantei.wordpress.com/?p=54
-parent_post_id: null
-post_id: "54"
-tags:
-  - 中翻
-  - 霜月はるか
-timeline_notification: "1655882459"
 title: 【中翻】追葬の窓
-url: /2022/06/22/【中翻】追葬の窓/
-
+categories:
+  - 歌词中翻
+date: "2022-06-22T07:20:55+00:00"
+tags:
+  - 霜月はるか
 ---
 _Album: ツイソウの窓；落日の迷い子 （tieLeaf）_  
 _作詞：日山尚_  

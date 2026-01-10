@@ -1,34 +1,17 @@
 ---
-_elasticsearch_data_sharing_indexed_on: "2025-01-02 03:13:01"
-_last_editor_used_jetpack: block-editor
-_oembed_0cda34a01c513d4bd6877b1677df0da9: '<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="750" height="422" src="https://www.youtube.com/embed/qL3ACFHDUA4?si=sRNxuGT-uT6kki5s&#038;version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>'
-_oembed_e1a3592e0207ca4db3b57f5bbc74e443: '<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/qL3ACFHDUA4?si=sRNxuGT-uT6kki5s&#038;version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>'
-_oembed_time_0cda34a01c513d4bd6877b1677df0da9: "1735788568"
-_oembed_time_e1a3592e0207ca4db3b57f5bbc74e443: "1735788574"
-_publicize_job_id: "100614161163"
-author: nojilllee
-categories:
-  - 反思
+title: 一瞬的感质
 date: "2025-01-02T03:17:34+00:00"
-firehose_sent: "1735787855"
-guid: https://dynamicstantei.wordpress.com/?p=176
-parent_post_id: null
-post_id: "176"
+categories:
+  - 年终总结
 tags:
   - 心情
-  - 记录
-timeline_notification: "1735787856"
-title: 一瞬的感质
-url: /2025/01/02/一瞬的感质/
-
+  - 夹叙夹议
 ---
 2024年过得非常没有连续的实感，总觉得像一个又一个瞬间歪歪扭扭地拼贴在一起，像一条又一条交织的马尔可夫链，有些难以看清事物演化的规律。  
 和往年也许类似的是，不管出于有意无意，今年仍有一首可以单曲循环的歌扮演钓线的角色，在潜意识之海中把自己一年来产生的碎片收纳起来。
 
-https://www.youtube.com/embed/qL3ACFHDUA4?si=sRNxuGT-uT6kki5s
-
-
-[https://www.bilibili.com/video/BV16N411K7f5/](https://www.bilibili.com/video/BV16N411K7f5/)  
+{{< youtube qL3ACFHDUA4}}
+[【茶太・霜月はるか】「一瞬のクオリア」full ver.【MV】](https://www.bilibili.com/video/BV16N411K7f5/)  
 「一瞬のクオリア」，unravel。  
 1 支配された四角い箱の中  
 今年的工作想总结都不知道从哪里下手好，感觉上像是兴冲冲地使出浑身解数但都打在了棉花上。  

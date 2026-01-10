@@ -1,21 +1,10 @@
 ---
-_last_editor_used_jetpack: block-editor
-_publicize_job_id: "74428013141"
-author: nojilllee
-categories:
-  - 歌词
+title: 【中翻】楽園図
 date: "2022-07-06T15:14:36+00:00"
-guid: https://dynamicstantei.wordpress.com/?p=62
-parent_post_id: null
-post_id: "62"
+categories:
+  - 歌词中翻
 tags:
   - 中惠光城
-  - 中翻
-timeline_notification: "1657120478"
-title: 【中翻】楽園図
-url: /2022/07/06/【中翻】楽園図/
-wordads_ufa: u:1657120786
-
 ---
 _Album: Cross Bouquet (753. x Absolute Castaway)_  
 _歌：中恵光城_  

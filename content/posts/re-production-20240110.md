@@ -1,24 +1,11 @@
 ---
-_last_editor_used_jetpack: block-editor
-_oembed_2ed2b225290cb38549c9214153748ce5: <div class="embed-youtube"><iframe title="パワポで「アタシ再生産」を作ってみた" width="750" height="422" src="https://www.youtube.com/embed/mtsqAydsuhk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-_oembed_bc816e625e7e26c1beafd5188a051a4b: <div class="embed-youtube"><iframe title="パワポで「アタシ再生産」を作ってみた" width="500" height="281" src="https://www.youtube.com/embed/mtsqAydsuhk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-_oembed_time_2ed2b225290cb38549c9214153748ce5: "1731473532"
-_oembed_time_bc816e625e7e26c1beafd5188a051a4b: "1727692346"
-_publicize_job_id: "90983946938"
-author: nojilllee
-categories:
-  - 反思
-  - 杂
-date: "2024-01-10T23:30:01+00:00"
-firehose_sent: "1704929403"
-guid: https://dynamicstantei.wordpress.com/?p=136
-parent_post_id: null
-post_id: "136"
-timeline_notification: "1704929404"
 title: 再生产
-url: /2024/01/10/再生产/
-wordads_ufa: s:wpcom-ufa-v4:1704941537
-
+date: "2024-01-10T23:30:01+00:00"
+categories:
+  - 年终总结
+tags:
+  - 心情
+  - 夹叙夹议
 ---
 {{< youtube mtsqAydsuhk >}}
 

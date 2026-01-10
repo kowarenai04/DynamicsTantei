@@ -1,46 +1,12 @@
 ---
-_elasticsearch_data_sharing_indexed_on: "2025-03-09 09:17:46"
-_g_feedback_shortcode_atts_e1504dd3dc756336e62fe9a64c9e56c59bc50c0d:
-  block_template: null
-  block_template_part: null
-  className: null
-  customThankyou: ""
-  customThankyouHeading: Your message has been sent
-  customThankyouMessage: Thank you for your submission!
-  customThankyouRedirect: ""
-  hiddenFields: null
-  id: 189
-  jetpackCRM: true
-  postToUrl: null
-  salesforceData: null
-  show_subject: "no"
-  subject: '[壊れない欠片] 【闪回】霜月はるか　蛍蝶ノ祭'
-  submit_button_text: Submit
-  to: nojill.lee@gmail.com
-  widget: 0
-_g_feedback_shortcode_e1504dd3dc756336e62fe9a64c9e56c59bc50c0d: |-
-  [contact-field label="Name" type="name"  required="true" /]
-  				[contact-field label="Email" type="email" required="true" /]
-  				[contact-field label="Website" type="url" /]
-  				[contact-field label="Message" type="textarea" /]
-_last_editor_used_jetpack: block-editor
-_publicize_job_id: "102332263166"
-author: nojilllee
+title: 【闪回】霜月はるか　蛍蝶ノ祭
+date: "2025-03-09T09:22:30+00:00"
 categories:
   - 旅行
-date: "2025-03-09T09:22:30+00:00"
-firehose_sent: "1741512152"
-guid: https://dynamicstantei.wordpress.com/?p=189
-parent_post_id: null
-post_id: "189"
 tags:
-  - 回忆
+  - 记录
   - 心情
   - 霜月はるか
-timeline_notification: "1741512153"
-title: 【闪回】霜月はるか　蛍蝶ノ祭
-url: /2025/03/09/【闪回】霜月はるか　蛍蝶ノ祭/
-
 ---
 {{< figure src="/DynamicsTantei/wp-content/uploads/2025/03/8bc5f73dda7b4e917e886f94c05d73.jpg" alt="" caption="" >}}
 

@@ -1,19 +1,11 @@
 ---
-_last_editor_used_jetpack: block-editor
-_publicize_job_id: "77842462789"
-author: nojilllee
-categories:
-  - 反思
-  - 杂
-date: "2022-10-18T18:43:12+00:00"
-guid: https://dynamicstantei.wordpress.com/?p=85
-parent_post_id: null
-post_id: "85"
-timeline_notification: "1666118594"
 title: 自修课题
-url: /2022/10/18/自修课题/
-wordads_ufa: s:wpcom-ufa-v3-beta:1666118706
-
+date: "2022-10-18T18:43:12+00:00"
+categories:
+  - 思考
+tags:
+  - 心情
+  - 记录
 ---
 写东西这件事还真的得有感而发。等到有感觉冲到嘴边了，不需要太匠气，流水账一通反而有荡气回肠之感。
 

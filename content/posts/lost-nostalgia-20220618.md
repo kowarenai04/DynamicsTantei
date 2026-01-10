@@ -1,20 +1,11 @@
 ---
-_last_editor_used_jetpack: block-editor
-_publicize_job_id: "73781502386"
-author: nojilllee
-categories:
-  - 歌词
+title: 【中翻】Lost Nostalgia
+
 date: "2022-06-18T07:39:20+00:00"
-guid: https://dynamicstantei.wordpress.com/?p=35
-parent_post_id: null
-post_id: "35"
+categories:
+  - 歌词中翻
 tags:
   - 中惠光城
-  - 中翻
-timeline_notification: "1655537962"
-title: 【中翻】Lost Nostalgia
-url: /2022/06/18/【中翻】lost-nostalgia/
-
 ---
 _Album: Cross Bouquet (753. x Absolute Castaway)_
 

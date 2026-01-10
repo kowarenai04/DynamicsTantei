@@ -1,20 +1,10 @@
 ---
-_last_editor_used_jetpack: block-editor
-_publicize_job_id: "81181893004"
-author: nojilllee
-categories:
-  - 杂
-date: "2023-02-03T22:27:18+00:00"
-guid: https://dynamicstantei.wordpress.com/?p=115
-parent_post_id: null
-post_id: "115"
-tags:
-  - 摘抄
-timeline_notification: "1675463240"
 title: 一些《Spotlight》的摘抄
-url: /2023/02/03/一些《spotlight》的摘抄/
-wordads_ufa: s:wpcom-ufa-v3-beta:1675463382
-
+date: "2023-02-03T22:27:18+00:00"
+categories:
+  - 摘抄
+tags:
+  - 书影音游画
 ---
 This city, these people, making the rest of us feel like we don’t belong. But they are no better than us.
 

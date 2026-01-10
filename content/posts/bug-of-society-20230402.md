@@ -1,21 +1,10 @@
 ---
-_last_editor_used_jetpack: block-editor
-_publicize_job_id: "82846856958"
-author: nojilllee
-categories:
-  - 反思
-date: "2023-04-02T08:39:30+00:00"
-guid: https://dynamicstantei.wordpress.com/?p=117
-parent_post_id: null
-post_id: "117"
-tags:
-  - 心情
-  - 记事
-timeline_notification: "1680424773"
 title: 社畜化
-url: /2023/04/02/社畜化/
-wordads_ufa: s:wpcom-ufa-v3-beta:1680424954
-
+date: "2023-04-02T08:39:30+00:00"
+categories:
+  - 思考
+tags:
+  - 夹叙夹议
 ---
 写作欲经常是不期而至的。不知道究竟是因为最近丢了自行车开始走路上下班，还是因为每天淅淅沥沥下小雨缺不见暖和的天气，精神又处在一种跳脱的状态。如果来比喻的话可能有点像被拔出来的断路器。
 

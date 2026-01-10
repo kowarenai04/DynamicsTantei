@@ -1,21 +1,10 @@
 ---
-_last_editor_used_jetpack: block-editor
-_publicize_job_id: "76054026044"
-author: nojilllee
-categories:
-  - 歌词
-date: "2022-08-24T09:45:01+00:00"
-guid: https://dynamicstantei.wordpress.com/?p=72
-parent_post_id: null
-post_id: "72"
-tags:
-  - 中翻
-  - 君の美術館
-timeline_notification: "1661334304"
 title: 【中翻】Lost paradise - 君の美術館
-url: /2022/08/24/【中翻】lost-paradise-君の美術館/
-wordads_ufa: u:wpcom-ufa-v3-beta:1661334445
-
+date: "2022-08-24T09:45:01+00:00"
+categories:
+  - 歌词中翻
+tags:
+  - 君の美術館
 ---
 （写在前面的PS）  
 很喜欢的一首歌，越听越觉得和声配得相当动人。因为没有入实体碟所以没有歌本。和声和念白部分可能会有少许错误...  
