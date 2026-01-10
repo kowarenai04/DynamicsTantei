@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://kowarenai04.github.io/DynamicsTantei"
+baseurl = "https://kowarenai04.github.io/DynamicsTantei/"
 languageCode = "zh-cn"
 title = "壊れない欠片"
 

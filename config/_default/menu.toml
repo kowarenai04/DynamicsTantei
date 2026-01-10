@@ -19,3 +19,9 @@ icon = "brand-mastodon"
 name = "留言板"
 pageRef = "/page/guestbook"
 weight = 40
+
+[[main]]
+name = "RSS"
+url = "/index.xml"
+weight = 99
+
