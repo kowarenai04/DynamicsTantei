@@ -16,7 +16,17 @@ url = "https://www.wxw.moe/@kowaretai"
 icon = "brand-mastodon"
 
 [[main]]
-name = "留言板"
+name = "主页/Home"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "文字/Posts"
+pageRef = "/posts"
+weight = 2
+
+[[main]]
+name = "留言板/Board"
 pageRef = "/page/guestbook"
 weight = 40
 

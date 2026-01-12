@@ -6,8 +6,16 @@
     <description>Recent content on 壊れない欠片</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 07 Jan 2026 18:31:52 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 09:39:30 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/DynamicsTantei/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬迁！</title>
+      <link>http://localhost:1313/DynamicsTantei/posts/20260112-moving-new/</link>
+      <pubDate>Mon, 12 Jan 2026 09:39:30 +0800</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/DynamicsTantei/posts/20260112-moving-new/</guid> 
+      <description>&lt;p&gt;其实大约两年之前在长毛象上看到一篇博客&lt;a class=&#34;link&#34; href=&#34;https://blog.douchi.space/blog-migrate-wordpress-hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;新的静态博客上线啦！&lt;/a&gt;之后，就想着从wordpress搬到静态博客。只不过因为各种原因（主要是自己懒而且忙于一些工作的事情）不断搁置。今年寒假某前同事跟我说他直接借Claude帮助一周搭了一个database之后，自己终于下定了想要搬迁的决心。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>留言板</title>
       <link>http://localhost:1313/DynamicsTantei/page/guestbook/</link>
