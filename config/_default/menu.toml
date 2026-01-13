@@ -21,9 +21,14 @@ pageRef = "/"
 weight = 1
 
 [[main]]
+name = "关于我/About"
+pageRef = "/page/about"
+weight = 10
+
+[[main]]
 name = "文字/Posts"
 pageRef = "/posts"
-weight = 2
+weight = 20
 
 [[main]]
 name = "留言板/Board"

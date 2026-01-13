@@ -6,8 +6,20 @@
     <description>Recent content on 壊れない欠片</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 12 Jan 2026 09:39:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 11:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/DynamicsTantei/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>http://localhost:1313/DynamicsTantei/page/about/</link>
+      <pubDate>Tue, 13 Jan 2026 11:00:00 +0800</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/DynamicsTantei/page/about/</guid> 
+      <description>&lt;p&gt;跃迁于各种碎片的人类，现居苏格兰某小城。&lt;/p&gt;
+&lt;p&gt;喜爱科学，从事科学工作，目前尚未当得一个“家”字。&lt;/p&gt;
+&lt;h3 id=&#34;随机游走真&#34;&gt;随机游走（真）
+&lt;/h3&gt;&lt;p&gt;物理参考系：中-美-英（格兰）-苏（格兰）&lt;br&gt;
+职业参考系：化学-生物物理-计算/演化生物学-细胞生物学-？&lt;br&gt;
+&lt;strong&gt;热爱dynamics，拒绝snapshot！&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>搬迁！</title>
       <link>http://localhost:1313/DynamicsTantei/posts/20260112-moving-new/</link>
