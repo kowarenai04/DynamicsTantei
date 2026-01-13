@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/DynamicsTantei/page/</loc>
-    <lastmod>2026-01-13T11:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/DynamicsTantei/page/about/</loc>
-    <lastmod>2026-01-13T11:00:00+08:00</lastmod>
+    <lastmod>2026-01-13T16:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/</loc>
+    <lastmod>2026-01-13T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/page/links/</loc>
+    <lastmod>2026-01-13T16:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/DynamicsTantei/page/about/</loc>
     <lastmod>2026-01-13T11:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/DynamicsTantei/categories/</loc>

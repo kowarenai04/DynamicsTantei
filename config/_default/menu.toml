@@ -36,6 +36,11 @@ pageRef = "/page/guestbook"
 weight = 40
 
 [[main]]
+name = "链接/Links"
+pageRef = "/page/links"
+weight = 50
+
+[[main]]
 name = "RSS"
 url = "/index.xml"
 weight = 99
