@@ -6,8 +6,29 @@
     <description>Recent content on 壊れない欠片</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 13 Jan 2026 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 22:00:30 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/DynamicsTantei/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>也可能是只有一篇的周记</title>
+      <link>http://localhost:1313/DynamicsTantei/posts/20260123-week-diary/</link>
+      <pubDate>Fri, 23 Jan 2026 22:00:30 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/DynamicsTantei/posts/20260123-week-diary/</guid> 
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/DynamicsTantei/posts/20260123-week-diary/20260123_img1.jpg&#34;
+	width=&#34;4032&#34;
+	height=&#34;2268&#34;
+	srcset=&#34;http://localhost:1313/DynamicsTantei/posts/20260123-week-diary/20260123_img1_hu_9a3e4d36c4209423.jpg 480w, http://localhost:1313/DynamicsTantei/posts/20260123-week-diary/20260123_img1_hu_61192c2feaaa9ad4.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;陪了我快10年的老朋友&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;今天是2026年开工之后的第一个星期五。其实周中就多少想写点什么东西，可惜一直被工作占据一拖再拖。本来今晚还想再做点图，吃完晚饭之后想着把碟放起来当bgm。谁曾想音量旋钮坏了，卡在了一个声音略大的音量下不来了。我平时放音乐一般都在8-9的音量怕吵到邻居，这样一来多少有点担心。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>链接</title>
       <link>http://localhost:1313/DynamicsTantei/page/links/</link>
@@ -47,7 +68,8 @@
       <pubDate>Wed, 07 Jan 2026 18:31:52 +0800</pubDate>
        <guid isPermaLink="false">http://localhost:1313/DynamicsTantei/page/guestbook/</guid> 
       <description>&lt;p&gt;Feel free to comment!&lt;/p&gt;
-&lt;p&gt;这里是全部的留言耶！&lt;/p&gt;</description>
+&lt;p&gt;这里是全部的留言耶！&lt;/p&gt;
+&lt;p&gt;目前暂时用的是Gisqus所以需要GitHub ID&amp;hellip;有生之年再考虑建Disqus吧&lt;/p&gt;</description>
     </item>
     <item>
       <title>Get over</title>
