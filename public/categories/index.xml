@@ -6,12 +6,19 @@
     <description>Recent content in Categories on 壊れない欠片</description>
     <generator>Hugo -- 0.154.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 23 Jan 2026 22:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 22:15:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/DynamicsTantei/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>思考</title>
+      <link>http://localhost:1313/DynamicsTantei/categories/%E6%80%9D%E8%80%83/</link>
+      <pubDate>Fri, 30 Jan 2026 22:15:00 +0000</pubDate>
+       <guid isPermaLink="false">http://localhost:1313/DynamicsTantei/categories/%E6%80%9D%E8%80%83/</guid> 
+      <description></description>
+    </item>
     <item>
       <title>小事记</title>
       <link>http://localhost:1313/DynamicsTantei/categories/%E5%B0%8F%E4%BA%8B%E8%AE%B0/</link>
-      <pubDate>Fri, 23 Jan 2026 22:00:30 +0000</pubDate>
+      <pubDate>Fri, 30 Jan 2026 22:15:00 +0000</pubDate>
        <guid isPermaLink="false">http://localhost:1313/DynamicsTantei/categories/%E5%B0%8F%E4%BA%8B%E8%AE%B0/</guid> 
       <description></description>
     </item>
@@ -41,13 +48,6 @@
       <link>http://localhost:1313/DynamicsTantei/categories/%E5%9B%9E%E5%BF%86/</link>
       <pubDate>Mon, 04 Dec 2023 20:33:54 +0000</pubDate>
        <guid isPermaLink="false">http://localhost:1313/DynamicsTantei/categories/%E5%9B%9E%E5%BF%86/</guid> 
-      <description></description>
-    </item>
-    <item>
-      <title>思考</title>
-      <link>http://localhost:1313/DynamicsTantei/categories/%E6%80%9D%E8%80%83/</link>
-      <pubDate>Sun, 02 Apr 2023 08:39:30 +0000</pubDate>
-       <guid isPermaLink="false">http://localhost:1313/DynamicsTantei/categories/%E6%80%9D%E8%80%83/</guid> 
       <description></description>
     </item>
     <item>
